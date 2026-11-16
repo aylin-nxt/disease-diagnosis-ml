@@ -83,7 +83,6 @@ The repository includes visualizations and supporting files generated during the
 |---|---|
 | `corrected_roc_curves.png` | ROC curves for model comparison |
 | `correlation_matrix.png` | Feature correlation matrix |
-| `decision_tree.pdf` | Decision tree visualization |
 | `feature_importance.png` | Feature importance visualization |
 | `learning_curves.png` | Model learning curves |
 | `model_performance1.csv` | Model performance results |
